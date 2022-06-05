@@ -4,7 +4,7 @@ A tool to send requests to OpenAI in the form of natural language and get back e
 
 ## Requirements:
 
-See <requirements.txt>
+See requirements.txt
 
 ## Configuration
 
